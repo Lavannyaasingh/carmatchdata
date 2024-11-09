@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "category_id": 1,
+        "image": "https://i.ibb.co/SwyRN5F/hyundai-i10.webp",
+        "name": "hyundai i10",
+        "cost": "rs-5.92 lakh"
+    },
+    {
+        "id": 2,
+        "category_id": 1,
+        "image": "https://i.ibb.co/brJ82wv/maruti-suzuki-alto.webp",
+        "name": "maruti suzuki alto",
+        "cost": "rs-4.20 lakh"
+    },
+    {
+        "id": 3,
+        "category_id": 1,
+        "image": "https://i.ibb.co/3zGvZxH/maruti-wagon-R.png",
+        "name": "maruti wagon r",
+        "cost": "rs-5.54 lakh"
+    },
+    {
+        "id": 4,
+        "category_id": 1,
+        "image": "https://i.ibb.co/G5pG5vQ/suzuki-s-presso.webp",
+        "name": "suzuki s-presso",
+        "cost": "rs-4.20 lakh"
+    },
+    {
+        "id": 5,
+        "category_id": 1,
+        "image": "https://i.ibb.co/kxZJw4s/renault-kwid.webp",
+        "name": "renault kwid",
+        "cost": "rs-4.70 lakh"
+    },
+    {
+        "id": 6,
+        "category_id": 2,
+        "image": "https://i.ibb.co/S7N3F2L/honda-civic.webp",
+        "name": "honda civic",
+        "cost": "rs-17.95 lakh"
+    },
+    {
+        "id": 7,
+        "category_id": 2,
+        "image": "https://i.ibb.co/yp87m8h/honda-city.jpg",
+        "name": "honda city",
+        "cost": "rs-11.82 lakh"
+    },
+    {
+        "id": 8,
+        "category_id": 2,
+        "image": "https://i.ibb.co/wd34VfY/maruti-ciaz.webp",
+        "name": "maruti ciaz",
+        "cost": "rs-9.40 lakh"
+    },
+    {
+        "id": 9,
+        "category_id": 2,
+        "image": "https://i.ibb.co/M1FsNWk/hyundai-verna.webp",
+        "name": "hyundai verna",
+        "cost": "rs-11 lakh"
+    },
+    {
+        "id": 10,
+        "category_id": 2,
+        "image": "https://i.ibb.co/rfMtrYw/maruti-dzire.webp",
+        "name": "maruti dzire",
+        "cost": "rs-6.57 lakh"
+    },
+    {
+        "id": 11,
+        "category_id": 3,
+        "image": "https://i.ibb.co/Hnh4pXm/toyota-fortuner.webp",
+        "name": "toyota fortuner",
+        "cost": "rs-33.43 lakh"
+    },
+    {
+        "id": 12,
+        "category_id": 3,
+        "image": "https://i.ibb.co/GVnbSJM/mahindra-scorpio.webp",
+        "name": "mahindra scorpio",
+        "cost": "rs-15.86 lakh"
+    },
+    {
+        "id": 13,
+        "category_id": 3,
+        "image": "https://i.ibb.co/ngfdyNk/mercedes-benz-amg-g-class.jpg",
+        "name": "mercedes-benz amg g-class",
+        "cost": "rs-3.60 crore"
+    },
+    {
+        "id": 14,
+        "category_id": 3,
+        "image": "https://i.ibb.co/VW0P0p2/mahindra-thar.webp",
+        "name": "mahindra thar",
+        "cost": "rs-13.24 lakh"
+    },
+    {
+        "id": 15,
+        "category_id": 3,
+        "image": "https://i.ibb.co/2qymnMY/skoda-kodiaq.webp",
+        "name": "skoda kodiaq",
+        "cost": "rs-39.99 lakh"
+    },
+    {
+        "id": 16,
+        "category_id": 4,
+        "image": "https://i.ibb.co/6DXwqt2/mercedes-benz-sl.jpg",
+        "name": "mercedes-benz sl",
+        "cost": "rs-2.44 crore"
+    },
+    {
+        "id": 17,
+        "category_id": 4,
+        "image": "https://i.ibb.co/RjM2Kf0/bmw-z4.webp",
+        "name": "bmw z4",
+        "cost": "rs-90.90 lakh"
+    },
+    {
+        "id": 18,
+        "category_id": 4,
+        "image": "https://i.ibb.co/c6NpZpc/Lamborghini-huracan-evo.webp",
+        "name": "lamborghini huracan evo",
+        "cost": "rs-4.04 crore"
+    },
+    {
+        "id": 19,
+        "category_id": 4,
+        "image": "https://i.ibb.co/NgR6Skc/Ferrari-Portofino.webp",
+        "name": "ferrari portofino",
+        "cost": "rs-3.50 crore"
+    },
+    {
+        "id": 20,
+        "category_id": 4,
+        "image": "https://i.ibb.co/fd5z7Xg/Porsche-718.jpg",
+        "name": "porsche 718",
+        "cost": "rs-1.48 crore"
+    },
+    {
+        "id": 21,
+        "category_id": 5,
+        "image": "https://i.ibb.co/wLZPGQR/tata-nexon-ev.jpg",
+        "name": "tata nexon ev",
+        "cost": "rs-12.49 lakh"
+    },
+    {
+        "id": 22,
+        "category_id": 5,
+        "image": "https://i.ibb.co/4Pk8Nd9/kia-ev6.webp",
+        "name": "kia ev 6",
+        "cost": "rs-60.97 lakh"
+    },
+    {
+        "id": 23,
+        "category_id": 5,
+        "image": "https://i.ibb.co/jyg4ByJ/mahindra-xuv-400.jpg",
+        "name": "mahindra xuv 400",
+        "cost": "rs-15.49 lakh"
+    },
+    {
+        "id": 24,
+        "category_id": 5,
+        "image": "https://i.ibb.co/Kz2kmVF/bmwi4.webp",
+        "name": "bmw i4",
+        "cost": "rs-72.50 lakh"
+    },
+    {
+        "id": 25,
+        "category_id": 5,
+        "image": "https://i.ibb.co/3SxknSY/tesla-model-3.webp",
+        "name": "2024 tesla model 3",
+        "cost": "rs-60 lakh"
+    },
+    {
+        "id": 26,
+        "category_id": 6,
+        "image": "https://i.ibb.co/XXRWYCS/Ford-Mustang.webp",
+        "name": "ford mustang",
+        "cost": "rs-74.61 lakh"
+    },
+    {
+        "id": 27,
+        "category_id": 6,
+        "image": "https://i.ibb.co/Snn5cFz/porsche-911.png",
+        "name": "porsche 911",
+        "cost": "rs-1.99 crore"
+    },
+    {
+        "id": 28,
+        "category_id": 6,
+        "image": "https://i.ibb.co/ZhvpTbb/jaguar-f-type.png",
+        "name": "jaguar f-type",
+        "cost": "rs-97.93 lakh"
+    },
+    {
+        "id": 29,
+        "category_id": 6,
+        "image": "https://i.ibb.co/MfVbYkr/toyota-supra.jpg",
+        "name": "toyota supra",
+        "cost": "rs-85 lakh"
+    },
+    {
+        "id": 30,
+        "category_id": 6,
+        "image": "https://i.ibb.co/0qn8R5b/ferrari-sf90.jpg",
+        "name": "ferrari sf90",
+        "cost": "rs-7.50 crore"
+    },
+    {
+        "id": 31,
+        "category_id": 7,
+        "image": "https://i.ibb.co/DbGX37g/land-rover-defender.webp",
+        "name": "land rover defender",
+        "cost": "rs-1.57 crore"
+    },
+    {
+        "id": 32,
+        "category_id": 7,
+        "image": "https://i.ibb.co/2q19jt0/range-rover.jpg",
+        "name": "land rover range rover",
+        "cost": "rs-4.98 crore"
+    },
+    {
+        "id": 33,
+        "category_id": 7,
+        "image": "https://i.ibb.co/cg10PzH/bentley-continental-gt.jpg",
+        "name": "bentley continental gt",
+        "cost": "rs-4.63 crore"
+    },
+    {
+        "id": 34,
+        "category_id": 7,
+        "image": "https://i.ibb.co/9yFgWZK/Rolls-Royce-Cullinan.jpg",
+        "name": "rolls-royce cullinan",
+        "cost": "rs-12.25 crore"
+    },
+    {
+        "id": 35,
+        "category_id": 7,
+        "image": "https://i.ibb.co/0jYbkGt/jeep-wrnagler.webp",
+        "name": "jeep wrangler",
+        "cost": "rs-62.65 lakh"
+    },
+    {
+        "id": 36,
+        "category_id": 8,
+        "image": "https://i.ibb.co/NNGYfLF/maruti-suzuki-eeco.jpg",
+        "name": "maruti suzuki-eeco",
+        "cost": "rs-5.32 lakh"
+    },
+    {
+        "id": 37,
+        "category_id": 8,
+        "image": "https://i.ibb.co/NFppD0B/toyota-vellfire.webp",
+        "name": "toyota vellfire",
+        "cost": "rs-1.22 crore"
+    },
+    {
+        "id": 38,
+        "category_id": 8,
+        "image": "https://i.ibb.co/MSb8MZk/lexus-lm.png",
+        "name": "lexus lm",
+        "cost": "rs-2.63 crore"
+    },
+    {
+        "id": 39,
+        "category_id": 8,
+        "image": "https://i.ibb.co/nwJCVzt/honda-freed.jpg",
+        "name": "honda freed",
+        "cost": "rs-9 lakh"
+    },
+    {
+        "id": 40,
+        "category_id": 8,
+        "image": "https://i.ibb.co/tXhPsRn/kia-carens.webp",
+        "name": "kia carens",
+        "cost": "rs-10.52 lakh"
+    }
+]

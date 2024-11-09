@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "micro"
+    },
+    {
+        "id": 2,
+        "name": "sedan"
+    },
+    {
+        "id": 3,
+        "name": "suv"
+    },
+    {
+        "id": 4,
+        "name": "convertible"
+    },
+    {
+        "id": 5,
+        "name": "electric"
+    },
+    {
+        "id": 6,
+        "name": "sports"
+    },
+    {
+        "id": 7,
+        "name": "luxury"
+    },
+    {
+        "id": 8,
+        "name": "minivan"
+    }
+]
